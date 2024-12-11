@@ -39,3 +39,4 @@ npm run dev
 * I did not use a global state management tool like React.Context to store the logged in user's information and instead just stored the userId and jwt-token in localstorage
 * I did not cover a lot of the functionality in the 'If You Have Extra Time' section besides the logout functionality as I think the logout button will help with application testing
 * I did not create interfaces nor add types for the variables I used
+* I added my .env.local file to the repository to allow for an easier application setup on your end 
