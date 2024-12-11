@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "content": "Sample Content 1 fdsafsd afsdafsd afsdafsd afdsa fsdaf sda fsdaf sdafsdafsad fsda fsdafsdaf sf sdfafdsa fsdaf sda",
+      "authorId": "fff5d4cb-6c26-487a-a700-226a0f6ef9ce",
+      "createdAt": "2024-10-02"
+    },
+    {
+      "content": "Sample Content 2",
+      "authorId": "8b729560-44c6-484a-ab83-c608ca5c2c3c",
+      "createdAt": "2023-01-02"
+    }
+  ],
+  "users": [
+    {
+      "id": "fff5d4cb-6c26-487a-a700-226a0f6ef9ce",
+      "email": "testEmail@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "8b729560-44c6-484a-ab83-c608ca5c2c3c",
+      "email": "test2@example.com",
+      "password": "secondPass"
+    }
+  ]
+}
